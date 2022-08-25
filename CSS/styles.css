@@ -1,0 +1,98 @@
+/*div{
+    background-color: #FCE2DB;
+}*/
+
+body{
+    margin: 0px;
+}
+
+h1{
+    text-align: center; 
+    font-family: cursive;
+    color: purple;
+    font-size: 70px;
+    margin: 10px auto 0 auto;
+}
+p{
+    font-family: cursive;
+    color: purple;
+    font-weight: bold;
+    text-align: center;
+}
+.para{
+    font-family: cursive;
+    color: purple;
+    font-weight: bold;
+    display: inline-block;
+    position: absolute;
+    top: 800px;
+    left: 300px;
+}
+h2{
+    text-align: center; 
+    font-family: cursive;
+    color: purple;
+    font-weight: bold;
+}
+.list{
+    text-align: center; 
+    font-family: cursive;
+    color: purple;
+    font-weight: bold;
+    display: inline-block;
+    position: relative;
+    bottom: 100px;
+    left: 10px;
+}
+.text{
+    text-align: center; 
+    font-family: cursive;
+    color: purple;
+    border: 0;
+}
+ul{
+    display: inline-block;
+    color: purple ;
+    margin-top: 0px;
+    font-family: cursive;
+    font-weight: bold;
+    position: relative;
+    right: 150px;
+    bottom: 30px;
+}
+
+
+.top{
+    background-color: #FCE2DB ;
+    height: 400px;
+    
+}
+.middle{
+    background-color: #e7fcdb ;
+    text-align: center;
+    height: 480px;
+}
+.bottom{
+    background-color: #dbf1fc ;    
+    text-align: center;
+    padding-top: 10px;
+}
+.baby{
+    position: relative;
+    left: 400px;
+    top: 10px;
+}
+.rattle{
+    position: relative;
+    left: 950px;
+    bottom: 50px;
+}
+.heart{
+    position: relative;
+    left: 10px; 
+    top:50px;
+}
+.rattlebow{
+  position: relative;
+  left: 10px; 
+}
